@@ -1,0 +1,6 @@
+{ "name": "node-stopwords"
+, "email": "h@hunedbotee.com"
+, "version": "0.0.1"
+, "url": "http://github.com/huned/node-stopwords"
+, "main": "stopwords.js"
+}

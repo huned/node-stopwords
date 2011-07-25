@@ -1,6 +1,9 @@
 { "name": "stopwords"
-, "version": "0.0.1"
+, "version": "0.0.2"
 , "description": "require('stopwords').stopwords"
 , "main": "stopwords.js"
 , "author": "Huned Botee <h@hunedbotee.com>"
+, "repository": {
+    "url": "git://github.com/huned/node-stopwords.git"
+  }
 }

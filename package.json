@@ -1,5 +1,5 @@
 { "name": "stopwords"
-, "version": "0.0.2"
+, "version": "0.0.3"
 , "description": "require('stopwords').english"
 , "main": "stopwords.js"
 , "author": "Huned Botee <huned@734m.com>"

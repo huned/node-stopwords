@@ -658,5 +658,5 @@ exports.english = [
   'yourselves',
   'youve',
   'z',
-  'zero',
+  'zero'
 ]

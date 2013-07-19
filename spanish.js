@@ -1,5 +1,6 @@
 ﻿// via http://www.ranks.nl/stopwords/spanish.html
 exports.spanish = [
+	'a',
 	'un',
 	'una',
 	'unas',

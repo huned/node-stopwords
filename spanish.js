@@ -21,6 +21,7 @@ exports.spanish = [
 	'eres',
 	'somos',
 	'sois',
+	'esto',
 	'estoy',
 	'esta',
 	'estamos',

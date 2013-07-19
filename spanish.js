@@ -107,7 +107,7 @@ exports.spanish = [
 	'sabemos',
 	'sabeis',
 	'saben',
-	'ultimo'
+	'ultimo',
 	'largo',
 	'bastante',
 	'haces',

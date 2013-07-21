@@ -179,5 +179,6 @@ exports.spanish = [
 	'podrian',
 	'podriais',
 	'yo',
-	'aquel'
+	'aquel',
+	'que'
 ]

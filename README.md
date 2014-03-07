@@ -1,10 +1,17 @@
-# stopwords for node.js #
+# Stopwords for node.js #
 
 main repo: github.com:huned/node-stopwords
 
 ## Overview ##
 
-A basic set of stopwords you can easily use with your node.js programs. Currently only provides english stopwords. Stopwords in other languages are welcome as pull requests to github.com:huned/node-stopwords.
+Stopwords in multiple languages that you can easily use with your node.js
+programs. Currently provides stopwords for the following languages:
+
+* English
+* Spanish
+
+Stopwords in other languages are welcome as pull requests to
+github.com:huned/node-stopwords.
 
 ## Install ##
 
@@ -12,6 +19,10 @@ A basic set of stopwords you can easily use with your node.js programs. Currentl
 
 ## Usage ##
 
-    require('stopwords').english; // an array of strings
+    // get an array of english stopwords
+    require('stopwords').english;
+
+    // get an array of spanish stopwords
+    require('stopwords').spanish;
 
 :q!

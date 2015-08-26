@@ -1,6 +1,6 @@
 # Stopwords for node.js #
 
-main repo: github.com:huned/node-stopwords
+main repo: [https://github.com/huned/node-stopwords](https://github.com/huned/node-stopwords)
 
 ## Overview ##
 
@@ -12,7 +12,7 @@ programs. Currently provides stopwords for the following languages:
 * German
 
 Stopwords in other languages are welcome as pull requests to
-github.com:huned/node-stopwords.
+[https://github.com/huned/node-stopwords](https://github.com/huned/node-stopwords)
 
 ## Install ##
 
@@ -29,4 +29,12 @@ github.com:huned/node-stopwords.
     // get an array of german stopwords
     require('stopwords').german;
 
-:q!
+## Contributors
+
+* Marcel Radischat (contributed German stopwords)
+* Leonardo Giovanetti (contributed Spanish stopwords)
+* Huned Botee (original author)
+
+## License ##
+
+MIT

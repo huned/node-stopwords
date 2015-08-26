@@ -9,6 +9,7 @@ programs. Currently provides stopwords for the following languages:
 
 * English
 * Spanish
+* German
 
 Stopwords in other languages are welcome as pull requests to
 github.com:huned/node-stopwords.
@@ -24,5 +25,8 @@ github.com:huned/node-stopwords.
 
     // get an array of spanish stopwords
     require('stopwords').spanish;
+
+    // get an array of german stopwords
+    require('stopwords').german;
 
 :q!

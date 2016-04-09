@@ -1,4 +1,5 @@
-exports.french = [	'au',
+exports.french = [
+	'au',
 	'aux',
 	'avec',
 	'ce',

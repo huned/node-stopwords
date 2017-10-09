@@ -11,6 +11,7 @@ programs. Currently provides stopwords for the following languages:
 * French
 * German
 * Spanish
+* Italian
 
 Stopwords in other languages are welcome as pull requests to
 [https://github.com/huned/node-stopwords](https://github.com/huned/node-stopwords)
@@ -32,12 +33,16 @@ Stopwords in other languages are welcome as pull requests to
 
     // get an array of spanish stopwords
     require('stopwords').spanish;
+
+    // get an array of italian stopwords
+    require('stopwords').italian;
 ```
 ## Contributors
 
 * Marcel Radischat (contributed German stopwords)
 * Leonardo Giovanetti (contributed Spanish stopwords)
 * Jean-Elie Barjonet (contributed French stopwords)
+* Rocco Musolino (contributed Italian stopwords)
 * Huned Botee (original author)
 
 ## License ##

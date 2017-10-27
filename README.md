@@ -7,6 +7,7 @@ main repo: [https://github.com/huned/node-stopwords](https://github.com/huned/no
 Stopwords in multiple languages that you can easily use with your node.js
 programs. Currently provides stopwords for the following languages:
 
+* Dutch
 * English
 * French
 * German
@@ -22,9 +23,12 @@ Stopwords in other languages are welcome as pull requests to
 
 ## Usage ##
 ```es6
+    // get an array of dutch stopwords
+    require('stopwords').dutch;
+
     // get an array of english stopwords
     require('stopwords').english;
-    
+
     // get an array of french stopwords
     require('stopwords').french;
 
@@ -43,6 +47,7 @@ Stopwords in other languages are welcome as pull requests to
 * Leonardo Giovanetti (contributed Spanish stopwords)
 * Jean-Elie Barjonet (contributed French stopwords)
 * Rocco Musolino (contributed Italian stopwords)
+* Wietse de Vries (contributed Dutch stopwords)
 * Huned Botee (original author)
 
 ## License ##

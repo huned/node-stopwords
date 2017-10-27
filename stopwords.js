@@ -1,3 +1,4 @@
+exports.dutch = require('./dutch').dutch
 exports.english = require('./english').english
 exports.french = require('./french').french
 exports.german = require('./german').german
